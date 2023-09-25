@@ -1,7 +1,7 @@
 Hi my name is Elizabeth Micaela Gurdzel
 =================================================================================================================================================
 
-Full-stack and Front-end Developer
+Full-stack | Front-end Developer
 ----------------------------------
 
 i´ve been studying since April 2023 to be a fullstack developer, I found my passion as a frontend developer.
@@ -11,6 +11,7 @@ i´ve been studying since April 2023 to be a fullstack developer, I found my pas
 * 🧠  I'm learning React native
 * 🤝  I'm open to collaborating on whatever comes my way
 * ⚡  I love teamwork
+
 
 ### Skills
 
