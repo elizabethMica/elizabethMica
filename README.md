@@ -8,7 +8,6 @@ i´ve been studying since April 2023 to be a fullstack developer, I found my pas
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [gurdzelm@gmail.com](mailto:gurdzelm@gmail.com)
-* 🧠  I'm learning React native
 * 🤝  I'm open to collaborating on whatever comes my way
 * ⚡  I love teamwork
 
